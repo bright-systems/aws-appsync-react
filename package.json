@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/awslabs/aws-mobile-appsync-sdk-js.git"
   },
-  "scripts": {
-    "prepare": "tsc"
-  },
   "dependencies": {
     "prop-types": "^15.6.0"
   },
